@@ -12,6 +12,9 @@ This project presents a model which makes it easier for a differently abled pers
 
 The bot can be made to climb up or down using an app (made using MIT app inventor) with the help of bluetooth module
 connected with Aurduino Genuino Mega. 
+
+Import the app in MIT app inventor and download the apk file.
+
 There are 4 climbing wheel which has 3 limbs attached to 4 12V 60rpm DC motor to develop necessary torque to climb the stair and carry the person safely
 
 
