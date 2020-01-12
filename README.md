@@ -17,9 +17,9 @@ There are 4 climbing wheel which has 3 limbs attached to 4 12V 60rpm DC motor to
 
 ## Contributors
 
-Pranav Moorthy
-Pooja Badri Narayanan
-Mohan Krishna MCP
+- Pranav Moorthy
+- Pooja Badri Narayanan
+- Mohan Krishna MCP
 
 -----------------------------------------------------------------
 
